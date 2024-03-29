@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rúben Guilherme
+title: Ruben Guilherme
 email: ruben.guilherme.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, my name is Rúben Guilherme.
-  I am a Game Designer and Indie Game Developer based in Covilhã, Portugal.
+  Hello, my name is Ruben Guilherme.
+  I am a Game Designer and Indie Game Developer based in Covilha, Portugal.
   In this website you can check out my previous work and my current projects.
   Welcome!
 baseurl: "" # the subpath of your site, e.g. /blog
