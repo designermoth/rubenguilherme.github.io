@@ -27,23 +27,24 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Rúben Guilherme
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  image             : assets/img/my_photo.jpg
+#  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : ruben.guilherme.dev@gmail.com
+#  facebook          : your_username
+  github            : designermoth
+  itch.io           : designermoth.itch.io
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : rubenguilherme
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -58,13 +59,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+#disqus:
+#  shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
