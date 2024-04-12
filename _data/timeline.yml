@@ -1,17 +1,20 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: Student, University of Beira Interior
+  position: Bachelor's Degree in Computer Science and Engineering
   from: 2018
+  to: 2021
+  description: I've always wanted to work on games since I was a little kid and this degree felt like the first stepping stone to do that.
+               During my time as a C. S. bachelor, I learned a lot about programming and engineering as a whole.
+               Those skills still to this day have helped me in my career as a Game Designer and Indie Game Developer.
+               After finishing this degree I had a lot of connections in the departement which obfuscated my game developing dreams.
+               Thus I started the Master's Degree on this same field. 
+               Later, as I was working on my dissertation, I realised that I was not passionate about Computer Science.
+               It was then that I decided to switch my whole focus into getting in the Master's Degree for Design and Development of Digital Games.
+
+- title: Student, University of Beira Interior
+  position: Master's Degree in Design and Development of Digital Games
+  from: 2023
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Designing games had always been my passion. I remember as a little kids how much I loved creating games in my head.
+               It took me a while to understand that this was the path I wanted in life.
+               Now that I've studied so much about the area, learning a lot about each of the different parts of the development team, I feel as though I am ready to take my first steps in the Game Industry.
+               
