@@ -1,0 +1,12 @@
+---
+---
+
+.link-after, .nav-link::after, .navbar-brand::after, .nav-item.active::after  { content: ""; display: block; height: 0.2em; background: #84b150 !important; }
+
+.progress {border-color: #000000 !important; border: 0.1rem solid;}
+
+[data-theme="light"] .progress { background-color: #4747472d !important; }
+
+
+@import "portfolYOU";
+

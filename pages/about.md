@@ -13,10 +13,10 @@ In this website you can check out my previous work and my current projects.
 Currently I am working on a roguelike 3D game in Godot as part of my Master's Degree second semester project.  
 Welcome!
 
-<!-- <div class="row">
-{% include about/skills.html title="Game Engines" source=site.data.programming-skills %}
+<div class="row">
+{% include about/engines.html title="Game Engines" source=site.data.engines %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div> -->
+</div>
 
 <div class="row">
 {% include about/timeline.html %}

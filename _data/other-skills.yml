@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: 2D Art
+  percentage: 30
+  color: 84b150
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: 3D Modelling
+  percentage: 50
+  color: 84b150
+
+- name: Narrative Design
+  percentage: 60
+  color: 84b150
+
+- name: Sound Design
+  percentage: 20
+  color: 84b150
+
+# - name: 3D Modelling
+#   percentage: 90
+#   color: success
