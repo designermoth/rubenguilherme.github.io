@@ -1,8 +1,12 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: The Lich Tower
+tools: [Godot, Roguelike]
+#image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+description: 
+    The Lich Tower is a roguelike game in development by 2 students. 
+    Each time you play as a different Witch Hunter from the very originally named Witch Hunters Guild. 
+    Your objective? Climb the Lich Tower and defeat its overlord at the top. 
+    Will you be able to fulfill your purpose, or join the Lich army? 
 ---
 
 # The Movies Project
