@@ -9,16 +9,23 @@ description:
     Will you be able to fulfill your purpose, or join the Lich army? 
 ---
 
-# The Movies Project
+# The Lich King
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+The Lich King is a roguelike 3D game where the player controls a Witch Hunter. The player will have two different weapons at their disposal, chosen before each run. Each weapon will have a different attack style and thus, change the pace for the player.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+![crossbow](../assets/img/crossbow.gif)
+<p class="text-center">Created by Gabriel Damasceno</p>
 
-## Search Movies
+## The Hub
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+During one of our classes, me and my other collegue, Gabriel, worked on the main hub for our game. The main hub is comprised of three areas:
 
-<p class="text-center">
+ - The main island, where the player can test the combat and enter the dungeon;
+ - The forge island, on the left, where the player can choose between the **Crossbow** and the **Blunderbuss**;
+ - The magic island, on the right, where the player can unlock and then choose their upgrades.
+
+![hub](../assets/img/hub.gif)
+
+<!-- <p class="text-center">
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
+</p> -->
